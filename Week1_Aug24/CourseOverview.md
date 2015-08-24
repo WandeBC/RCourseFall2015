@@ -17,6 +17,27 @@ mode        : selfcontained # {standalone, draft}
 - Exception: No meeting on Labor Day (Monday, Sept. 7)
 - Place: Microbiology Build A, 114
 
+## Content
+
+[An overview of the course content](https://github.com/geanders/RCourseFall2015/blob/master/CourseContent.md) is available online.
+
+We will cover four large themes in R programming for research:
+
+- Entering and cleaning data
+- Exploring data
+- Reporting data results
+- Reproducible research
+
+## Content
+
+The first course is preliminaries, and after that there will be three "cycles" of covering these topics:
+
+- **Preliminaries** Week 1, August 24
+- **Basic** Weeks 2--5, August 31, September 14, 21, and 28
+- **Intermediate** Weeks 6--9, October 5, 12, 19, and 26
+- **Advanced** Weeks 10--13, November 2, 9, 16, 30
+- **Final** Week 14, December 7
+
 ## Grading
 
 - **30 points** Participation
@@ -88,7 +109,7 @@ The final group project will be graded with A through F, with the following poin
 - **10 points** for a D
 - **5 points** for an F
 
-If you turn nothing in, you will get **0 points**
+If you turn nothing in, you will get **0 points**.
 
 ## Final group project
 
@@ -110,7 +131,7 @@ To get an idea of what your final product should look like, check out these link
 
 ## Final group project
 
-We will discuss expectations for this, create groups, etc. around the middle of the semester. The focus for this will not be so much on the statistical analysis, but rather on finding, cleaning, and using good data to answer an interesting question, and on presenting, summarizing, and explaining the data well.
+We will discuss expectations and grading for this, create groups, etc. around the middle of the semester. The focus for this will not be so much on the statistical analysis, but rather on finding, cleaning, and using good data to answer an interesting question, and on presenting, summarizing, and explaining the data well.
 
 ## In-class quizzes
 
@@ -130,7 +151,7 @@ You can not get more than the maximum of 20 points for this component.
 
 ## In-class quizzes
 
-- I will post the material you will be responsible for (functions, concepts, etc.) in a file on GitHub (in the `QuizMaterial` directory) by midnight the Monday before the quiz. 
+- I will post the material you will be responsible for (functions, concepts, etc.) in a file on GitHub (on the [QuizMaterial](https://github.com/geanders/RCourseFall2015/blob/master/QuizMaterial.md) page) by midnight the Monday before the quiz. 
 - Most of the functions and concepts will have been covered in class, but some may not. 
 - You are responsible for going through the list and, if there are things you don't know or remember from class, learning them. To do this, you can use help functions in R, Google, StackOverflow, books on R, ask a friend, and any other resource you can find.
 - Using R frequently in your research or other coursework will also help you prepare. 
@@ -148,7 +169,11 @@ An example of the kind of list you might see:
 - open source software
 - Nate Silver
 
+## Extra credit project
+
+Up to **10 points** possible. We will go over details of possible projects in next week's class.
+
 ## What you have due soon
 
-- Friday, August 28 by 12:00 pm (noon): <1 page journal entry for the week, describing how you used R. This can include details of setting up R / RStudio, including any problems you had and how you resolved them. It could also cover working through any of the in-class group exercise you didn't get time to do today. It must be a Word document. Email this to me at brooke.anderson@colostate.edu
+- Friday, August 28 by 12:00 pm (noon): <2 page journal entry for the week, describing how you used R. This can include details of setting up R / RStudio, including any problems you had and how you resolved them. It could also cover working through any of the in-class group exercise you didn't get time to do today. It must be a Word document. Email this to me at brooke.anderson@colostate.edu
 - Monday, August 31 during class: First in-class quiz. I will post by midnight tonight the list of material that you will be responsible for. I will email the link to that list once it is posted on GitHub. 

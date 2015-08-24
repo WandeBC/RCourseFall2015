@@ -374,3 +374,63 @@ daily_show[1:2, ]
 ## 1 1999                     actor 1/11/99 Acting  Michael J. Fox
 ## 2 1999                  Comedian 1/12/99 Comedy Sandra Bernhard
 ```
+
+## Dataframes
+
+You can use the functions `dim()`, `nrow()`, and `ncol` to figure out the dimensions (number of rows and columns) of a dataframe:
+
+
+```r
+dim(daily_show)
+```
+
+```
+## [1] 2693    5
+```
+
+```r
+nrow(daily_show)
+```
+
+```
+## [1] 2693
+```
+
+```r
+ncol(daily_show)
+```
+
+```
+## [1] 5
+```
+
+## Functions
+
+In general, functions in R take the following structure:
+
+
+```r
+function.name(required information, options)  ## Generic code
+```
+
+The result of the function will be output to your R session, unless you choose to save the output in an object:
+
+
+```r
+new.object <- function.name(required information, options)  ## Generic code
+```
+
+## Functions
+
+Examples of this structure:
+
+
+```r
+head(daily_show)
+head(daily_show, n = 3)
+daily_show <- read.csv("daily_show_guests.csv",
+                    skip = 4,
+                    header = TRUE)
+```
+
+Find out more about a function by using `?` (e.g., ,`?head`, `?read.csv`). This will take you to the help page for the function, where you can find out all the possible arguments for the function, required and optional.

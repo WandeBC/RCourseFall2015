@@ -19,7 +19,24 @@ mode        : selfcontained # {standalone, draft}
 
 ## Content
 
-[An overview of the course content]() is available online.
+[An overview of the course content](https://github.com/geanders/RCourseFall2015/blob/master/CourseContent.md) is available online.
+
+We will cover four large themes in R programming for research:
+
+- Entering and cleaning data
+- Exploring data
+- Reporting data results
+- Reproducible research
+
+## Content
+
+The first course is preliminaries, and after that there will be three "cycles" of covering these topics:
+
+- **Preliminaries** Week 1, August 24
+- **Basic** Weeks 2--5, August 31, September 14, 21, and 28
+- **Intermediate** Weeks 6--9, October 5, 12, 19, and 26
+- **Advanced** Weeks 10--13, November 2, 9, 16, 30
+- **Final** Week 14, December 7
 
 ## Grading
 
