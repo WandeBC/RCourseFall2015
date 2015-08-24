@@ -88,7 +88,7 @@ The final group project will be graded with A through F, with the following poin
 - **10 points** for a D
 - **5 points** for an F
 
-If you turn nothing in, you will get **0 points**
+If you turn nothing in, you will get **0 points**.
 
 ## Final group project
 
@@ -110,7 +110,7 @@ To get an idea of what your final product should look like, check out these link
 
 ## Final group project
 
-We will discuss expectations for this, create groups, etc. around the middle of the semester. The focus for this will not be so much on the statistical analysis, but rather on finding, cleaning, and using good data to answer an interesting question, and on presenting, summarizing, and explaining the data well.
+We will discuss expectations and grading for this, create groups, etc. around the middle of the semester. The focus for this will not be so much on the statistical analysis, but rather on finding, cleaning, and using good data to answer an interesting question, and on presenting, summarizing, and explaining the data well.
 
 ## In-class quizzes
 
@@ -148,7 +148,11 @@ An example of the kind of list you might see:
 - open source software
 - Nate Silver
 
+## Extra credit project
+
+Up to **10 points** possible. We will go over details of possible projects in next week's class.
+
 ## What you have due soon
 
-- Friday, August 28 by 12:00 pm (noon): <1 page journal entry for the week, describing how you used R. This can include details of setting up R / RStudio, including any problems you had and how you resolved them. It could also cover working through any of the in-class group exercise you didn't get time to do today. It must be a Word document. Email this to me at brooke.anderson@colostate.edu
+- Friday, August 28 by 12:00 pm (noon): <2 page journal entry for the week, describing how you used R. This can include details of setting up R / RStudio, including any problems you had and how you resolved them. It could also cover working through any of the in-class group exercise you didn't get time to do today. It must be a Word document. Email this to me at brooke.anderson@colostate.edu
 - Monday, August 31 during class: First in-class quiz. I will post by midnight tonight the list of material that you will be responsible for. I will email the link to that list once it is posted on GitHub. 

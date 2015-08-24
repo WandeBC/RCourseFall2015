@@ -1,0 +1,19 @@
+---
+title: "Quiz Material"
+author: "Brooke Anderson"
+date: "August 24, 2015"
+output: html_document
+---
+
+*Note: You are also responsible for all material for prior week's quizzes.*
+
+# Week 2 (Quiz on August 31 during course)
+
+- `c()`
+- `data.frame()`
+- `dim()`
+- `head()`, option `n = `
+- `read.csv`, options `head = `, `skip = `, `nrow = `
+- `[...]`, `[..., ...]`
+- open source software
+- Nate Silver
