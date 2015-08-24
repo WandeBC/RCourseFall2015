@@ -134,3 +134,21 @@ You can not get more than the maximum of 20 points for this component.
 - Most of the functions and concepts will have been covered in class, but some may not. 
 - You are responsible for going through the list and, if there are things you don't know or remember from class, learning them. To do this, you can use help functions in R, Google, StackOverflow, books on R, ask a friend, and any other resource you can find.
 - Using R frequently in your research or other coursework will also help you prepare. 
+
+## In-class quizzes
+
+An example of the kind of list you might see:
+
+- `c()`
+- `data.frame()`
+- `dim()`
+- `head()`, option `n = `
+- `read.csv`, options `head = `, `skip = `, `nrow = `
+- `[...]`, `[..., ...]`
+- open source software
+- Nate Silver
+
+## What you have due soon
+
+- Friday, August 28 by 12:00 pm (noon): <1 page journal entry for the week, describing how you used R. This can include details of setting up R / RStudio, including any problems you had and how you resolved them. It could also cover working through any of the in-class group exercise you didn't get time to do today. It must be a Word document. Email this to me at brooke.anderson@colostate.edu
+- Monday, August 31 during class: First in-class quiz. I will post by midnight tonight the list of material that you will be responsible for. I will email the link to that list once it is posted on GitHub. 
