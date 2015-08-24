@@ -17,6 +17,10 @@ mode        : selfcontained # {standalone, draft}
 - Exception: No meeting on Labor Day (Monday, Sept. 7)
 - Place: Microbiology Build A, 114
 
+## Content
+
+[An overview of the course content]() is available online.
+
 ## Grading
 
 - **30 points** Participation
@@ -130,7 +134,7 @@ You can not get more than the maximum of 20 points for this component.
 
 ## In-class quizzes
 
-- I will post the material you will be responsible for (functions, concepts, etc.) in a file on GitHub (in the `QuizMaterial` directory) by midnight the Monday before the quiz. 
+- I will post the material you will be responsible for (functions, concepts, etc.) in a file on GitHub (on the [QuizMaterial](https://github.com/geanders/RCourseFall2015/blob/master/QuizMaterial.md) page) by midnight the Monday before the quiz. 
 - Most of the functions and concepts will have been covered in class, but some may not. 
 - You are responsible for going through the list and, if there are things you don't know or remember from class, learning them. To do this, you can use help functions in R, Google, StackOverflow, books on R, ask a friend, and any other resource you can find.
 - Using R frequently in your research or other coursework will also help you prepare. 
