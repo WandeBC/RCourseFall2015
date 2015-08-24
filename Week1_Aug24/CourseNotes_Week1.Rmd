@@ -13,6 +13,35 @@ mode        : selfcontained # {standalone, draft}
 
 ## What is R?
 
+- A statistical programming language
+- Open-source
+- A core package with many available user-created add-ons (packages)
+
+## What is R?
+
+Currently popular in a number of fields, including:
+
+- Statistics
+- Machine learning
+- Data journalism / Data analysis
+
+## What is R?
+
+"The best thing about R is that it was developed by statisticians. The worst thing about R is that... it was developed by statisticians.
+
+-Bo Cowgill, Google, at the Bay Area R Users Group
+
+## Gratis vs. libre
+
+- Gratis: Free as in beer
+- Libre: Free as in speech
+
+With open-source software (free as in speech), you can:
+
+- Check out the code to figure out how the software works
+- Share the code (and software) with other people
+- Make any changes you want to the code
+
 ## What is RStudio?
 
 RStudio is a user interface for R. You download it separately, but it's a "nicer" way to work in R. 
